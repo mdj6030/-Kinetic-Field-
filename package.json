@@ -1,0 +1,17 @@
+{
+  "name": "kinetic-field-api",
+  "version": "1.0.0",
+  "description": "Kinetic Field — طبقة الربط الحرجة (Auth, Video, Codes, AI Cache)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
